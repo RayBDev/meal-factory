@@ -170,14 +170,14 @@ body {
 }
 
 .copyright {
-  color: #968b87;
+  color: #b9916d;
   font-size: 1.2rem;
   margin-top: auto;
 }
 
 .link:link,
 .link:visited {
-  color: #968b87;
+  color: #b9916d;
 }
 
 .loader {
@@ -529,7 +529,7 @@ body {
   text-align: center;
   width: 90%;
   margin-bottom: 3rem;
-  color: #968b87;
+  color: #b9916d;
 }
 .recipe__by {
   font-weight: 700;

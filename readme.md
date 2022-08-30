@@ -1,10 +1,10 @@
 <p align="center">
-    <img alt="Forkify Logo" src="https://github.com/RayBDev/forkify/blob/master/dist/img/logo.png" width="100" />
+    <img alt="Meal Factory" src="https://github.com/RayBDev/forkify/blob/master/dist/img/mf_logo.png" width="100" />
 </p>
 
 ---
 
-Omnifood is a premium food delivery company that delivers healthy meals to its subscribers. The website is meant as a gateway to the company's phone app.
+Meal Factory is a premium food delivery company that delivers healthy meals to its subscribers. The website is meant as a gateway to the company's phone app.
 
 ## :bookmark_tabs: Technologies Used
 
